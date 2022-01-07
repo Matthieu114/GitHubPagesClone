@@ -1,4 +1,4 @@
-#This is a clone of the [Github pages landing page](https://pages.github.com/).
+# This is a clone of the [Github pages landing page](https://pages.github.com/).
 
 I used React HTML and Tailwind CSS to replicate the page.
 
